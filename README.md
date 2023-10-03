@@ -1,2 +1,2 @@
-# Plugin_TEdit_ART
+# TEdit plugin for pixel-ART
 void
